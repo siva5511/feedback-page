@@ -1,0 +1,12 @@
+.rating-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffffff;
+  color: #1e293b;
+}
+
+.emoji-prop {
+  height: 50px;
+}
